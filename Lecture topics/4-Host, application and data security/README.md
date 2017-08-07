@@ -1,5 +1,5 @@
 ## Labs
-*Perform labs below in sequence*
+*Perform labs below in sequence*  
 4a. Exploring the Windows Server R2 security configuration wizard  
 4b. Creating a security template  
 4c. Analyzing security configurations  
