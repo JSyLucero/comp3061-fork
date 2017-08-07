@@ -5,4 +5,6 @@
 4c. Analyzing security configurations **(prerequisite lab 4b)**  
 4d. Applying security settings from a security template and verifying system compliance **(prerequisite lab 4c)**  
 4e. Auditing object access  
+___
+*These labs can be found in chapter 4 in the prescribed lab book* 
 
