@@ -5,3 +5,5 @@
 5c. Examining the relationship between EFS and NTFS permissions **(prerequisite lab 5b)**  
 5d. Using EFS recovery agent certificates **(prerequisite lab 5c)**  
 5e. Breaking the code  
+___
+*These labs can be found in chapter 5 in the prescribed lab book* 
