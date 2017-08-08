@@ -10,4 +10,6 @@
 
 1d. Creating a domain in Windows Server 2012 and connecting Windows 7 Professional as a client to the domain.  
 
-1e. Configuring git on lab computers.
+1e. Configuring git on lab computers.  
+
+
