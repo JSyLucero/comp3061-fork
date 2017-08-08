@@ -1,6 +1,6 @@
 ## Labs  
 
-**Make sure the domain is configured in Windows Server 2012 and Windows 7 is connected to the domain as a client successfully. Please verify before you perform any of the following labs. If the domain is not configured, perform lab 1d**  
+**Make sure the domain is configured in Windows Server 2012 and Windows 7 is connected to the domain successfully as a client. Please verify before you perform any of the following labs. If the domain is not configured, perform lab 1d**  
 4a. Exploring the Windows Server R2 security configuration wizard  
 4b. Creating a security template  
 4c. Analyzing security configurations **(prerequisite lab 4b)**  
