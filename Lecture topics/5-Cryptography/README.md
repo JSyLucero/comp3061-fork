@@ -1,5 +1,6 @@
 ## Labs
 
+**Make sure the domain is configured in Windows Server 2012 and Windows 7 client is connected to the domain successfully. Please verify before you perform any of the following labs. If the domain is not configured, perform lab 1d.**  
 5a. Encrypting files from the command prompt  
 5b. Demonstrating encryption security **(prerequisite lab 5a)**  
 5c. Examining the relationship between EFS and NTFS permissions **(prerequisite lab 5b)**  
