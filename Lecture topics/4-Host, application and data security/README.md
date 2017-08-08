@@ -1,5 +1,6 @@
-## Labs 
+## Labs  
 
+**Make sure lab 1d is done prior performing the following labs.**  
 4a. Exploring the Windows Server R2 security configuration wizard  
 4b. Creating a security template  
 4c. Analyzing security configurations **(prerequisite lab 4b)**  
