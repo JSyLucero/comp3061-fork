@@ -6,6 +6,8 @@
 
 1b. Create Windows Professional virtual machine.  
 
-1c. Create live boot of Kali Linux virtual machine.  
+1c. Create live boot of Kali Linux virtual machine and verify that all the virtual machines are pinging each other.
 
-1d. 
+1d. Creating a domain in Windows Server 2012 and connecting Windows 7 Professional as a client to the domain.  
+
+1e. Configuring git on lab computers.
