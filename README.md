@@ -36,4 +36,6 @@ Although MAC address filters are often relied upon to prevent unauthorized users
 **3. Use an Online Rainbow Table Cracker**  
 Although brute force and dictionary attacks were once the primary tools used by attackers to crack stolen digest passwords, more recently attackers have used rainbow tables. Rainbow tables make password attacks easier by creating a large pre-generated data set of candidate digests. In this project, you will create a hash on a password and then crack it with an online rainbow table cracker to demonstrate the speed of using rainbow tables. You can find an online rainbow cracker at https://crackstation.net/  
  * How long did it take this online rainbow table to crack given hash?
- * What is salted and non-salted hash value?
+ * What is salted and non-salted hash value?  
+ 
+ **Create a word document and upload on the course site on the Blackboard under (Evaluations --> Assignment)**
