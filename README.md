@@ -12,7 +12,6 @@
 
 *MC = Multiple choice, T/F = True/False*
 
----
 ## Lab exam
 In order to prepare for the lab exam I would recommend to go through the lab exercises you have done weekly in this course. The lab exam do not expect to remember commands; references, lab book, video and/or handwritten notes can be used during the exam. Following are the steps needs to be done before performing the lab exam:  
 1. Create fresh virtual machine of Windows Server 2012 R2, Windows 7.0 Professional and Kali Linux **(live boot only, DO NOT INSTALL)** in the designated drive allocated prior to start the course. Avoid saving virtual machines in any other hard drive locations, this would seriously impaired performance of the computer.  
@@ -22,9 +21,9 @@ In order to prepare for the lab exam I would recommend to go through the lab exe
 Instructions about how the labs are evaluated during the exam will be given at the start of the lab exam.
 
 ## Assignment
-Pick one topic per student.  
+*Pick one topic per student.*  
 
-Topic 1) Viewing WLAN Security Information with Vistumbler
+1. Viewing WLAN Security Information with Vistumbler
 Vistumbler can be used to display the security information that is beaconed out from WLANs. Note that Vistumbler does not allow you to “crack” any WLANs but instead only displays information. In this assignment, you will use Vistumbler to view this information. This assignment works best when you are in an area in which you can pick up multiple WLAN signals.
 a) What authentication types are listed?
 b) Record the total number of different WLANs that you are able to detect, along with the number of encryption types. Which type is most common? Which types are most secure and least secure?
