@@ -14,5 +14,5 @@
 
 ## Lab exam
 In order to prepare for the lab exam I would recommend to go through the lab exercises you have done weekly in this course. The lab exam do not expect to remember the commands; references, lab book, video and/or handwritten notes can be used during the exam. Following are the steps needs to be done before performing the lab exam:  
-a. Create fresh virtual machine of Windows Server 2012 R2 in the designated drive allocated prior to start the course. Avoid saving virtual machines in any other hard drive locations, this would seriously impaired performance of the computer.  
-b. 
+1. Create fresh virtual machine of Windows Server 2012 R2 in the designated drive allocated prior to start the course. Avoid saving virtual machines in any other hard drive locations, this would seriously impaired performance of the computer.  
+2. 
