@@ -16,5 +16,5 @@
 In order to prepare for the lab exam I would recommend to go through the lab exercises you have done weekly in this course. The lab exam do not expect to remember commands; references, lab book, video and/or handwritten notes can be used during the exam. Following are the steps needs to be done before performing the lab exam:  
 1. Create fresh virtual machine of Windows Server 2012 R2, Windows 7.0 Professional and Kali Linux **(live boot only, DO NOT INSTALL)** in the designated drive allocated prior to start the course. Avoid saving virtual machines in any other hard drive locations, this would seriously impaired performance of the computer.  
 2. Do not configure any virtual machines.  
-3. Do not use old virtual machines. 
+3. Do not use old virtual machines.  
 Instructions about how the labs are evaluated during the exam will be given at the start of the lab exam.
