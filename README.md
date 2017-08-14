@@ -23,15 +23,15 @@ Instructions about how the labs are evaluated during the exam will be given at t
 ## Assignment
 *Pick one topic per student.*  
 
-1. Viewing WLAN Security Information with Vistumbler
+** 1. Viewing WLAN Security Information with Vistumbler **  
 Vistumbler can be used to display the security information that is beaconed out from WLANs. Note that Vistumbler does not allow you to “crack” any WLANs but instead only displays information. In this assignment, you will use Vistumbler to view this information. This assignment works best when you are in an area in which you can pick up multiple WLAN signals.  
   * What authentication types are listed?  
   * Record the total number of different WLANs that you are able to detect, along with the number of encryption types. Which type is most common? Which types are most secure and least secure?  
-Topic 2) Substitute a MAC Address Using SMAC (or use application/package of your choice regardless of any OS)
-Although MAC address filters are often relied upon to prevent unauthorized users from accessing a wireless LAN, MAC addresses can easily be spoofed. In this assignment, you will substitute a MAC address.
-a) Show your current MAC address and spoofed MAC address.
-b) Verify Organizational Unique Identifier of MAC address to make sure that the OUI code represents correct organization.
-Topic 3) Use an Online Rainbow Table Cracker
-Although brute force and dictionary attacks were once the primary tools used by attackers to crack stolen digest passwords, more recently attackers have used rainbow tables. Rainbow tables make password attacks easier by creating a large pre-generated data set of candidate digests. In this project, you will create a hash on a password and then crack it with an online rainbow table cracker to demonstrate the speed of using rainbow tables. You can find an online rainbow cracker at https://crackstation.net/ 
-a) How long did it take this online rainbow table to crack given hash?
-b) What is salted and non-salted hash value?
+** 2.  Substitute a MAC Address Using SMAC (or use application/package of your choice regardless of any OS) **  
+Although MAC address filters are often relied upon to prevent unauthorized users from accessing a wireless LAN, MAC addresses can easily be spoofed. In this assignment, you will substitute a MAC address.  
+ * Show your current MAC address and spoofed MAC address.  
+ * Verify Organizational Unique Identifier of MAC address to make sure that the OUI code represents correct organization.  
+** 3. Use an Online Rainbow Table Cracker **  
+Although brute force and dictionary attacks were once the primary tools used by attackers to crack stolen digest passwords, more recently attackers have used rainbow tables. Rainbow tables make password attacks easier by creating a large pre-generated data set of candidate digests. In this project, you will create a hash on a password and then crack it with an online rainbow table cracker to demonstrate the speed of using rainbow tables. You can find an online rainbow cracker at https://crackstation.net/  
+ * How long did it take this online rainbow table to crack given hash?
+ * What is salted and non-salted hash value?
