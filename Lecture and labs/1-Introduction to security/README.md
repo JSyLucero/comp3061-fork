@@ -10,7 +10,7 @@
 
 1d. Creating a domain in Windows Server 2012 and connecting Windows 7 Professional as a client to the domain. **(prerequisite lab 1a and 1b)**    
 
-*__Please note that use recommended disk location provided in the lab. Saving large files anywhere other than recommended disk location would severely affect the performance of OS.__*
+#*__Please note that use recommended disk location provided in the lab. Saving large files anywhere other than recommended disk location would severely affect the performance of OS.__*
 
 ## Setting up virtual machines on personal computers  
 
