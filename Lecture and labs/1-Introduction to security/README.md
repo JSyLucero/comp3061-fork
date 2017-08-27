@@ -10,7 +10,7 @@
 
 1d. Creating a domain in Windows Server 2012 and connecting Windows 7 Professional as a client to the domain. **(prerequisite lab 1a and 1b)**    
 
-# *__Please note that use recommended disk location provided in the lab. Saving large files anywhere other than recommended disk location would severely affect the performance of OS.__*
+## *__Please note that use recommended disk location provided in the lab. Saving large files anywhere other than recommended disk location would severely affect the performance of OS.__*
 
 ## Setting up virtual machines on personal computers  
 
@@ -18,7 +18,7 @@ You need a VMware workstation player to create virtual machines. Download [VMwar
 
 After successfully installed VMware Workstation player, follow steps 1a, 1b, 1c and 1d in sequence.  
 
-*__Please note that I do not recommend setting up virtual machines in both lab and personal computers and transfer virtual machines back and forth via USB flash/hard drive/SSD. In the past, the VMs got corrupted due to transfer large amount of files frequently.__*   
+## *__Please note that I do not recommend setting up virtual machines in both lab and personal computers and transfer virtual machines back and forth via USB flash/hard drive/SSD. In the past, the VMs got corrupted due to transfer large amount of files frequently.__*   
 
 
 
