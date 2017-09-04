@@ -8,7 +8,7 @@
 
 1c. [Create live boot of Kali Linux virtual machine and verify that all the virtual machines (Windows 7, Server and Kali Linux) are pinging each other.](https://vimeo.com/232280872/4d022c34a4) **(prerequisite lab 1a and 1b)**  
 
-1d. Creating a domain in Windows Server 2012 and connecting Windows 7 Professional as a client to the domain. **(prerequisite lab 1a and 1b)**    
+1d. [Creating a domain in Windows Server 2012 and connecting Windows 7 Professional as a client to the domain.](https://vimeo.com/232281480/ee8e033911) **(prerequisite lab 1a and 1b)**    
 
 ### *__Please note that use recommended disk location provided in the lab. Saving large files anywhere other than recommended location would severely affect the performance of the OS.__*
 
