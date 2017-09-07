@@ -8,7 +8,7 @@ Your home folder is __D:\comp3061a__. Data will be deleted if you save outside o
 For the lab class on __Thursdays 11-2pm__, username is __.\comp3061b__ and password is __comp3061b__  
 Your home folder is __D:\comp3061b__. Data will be deleted if you save outside of your home folder. 
 
-For the lab class on __Wednesdays 2-5pm__, username is __.\comp3061c__ and password is __comp3061c__  
+For the lab class on __Thursdays 2-5pm__, username is __.\comp3061c__ and password is __comp3061c__  
 Your home folder is __D:\comp3061c__. Data will be deleted if you save outside of your home folder. 
 
 *__Perform the steps below in sequence__*
