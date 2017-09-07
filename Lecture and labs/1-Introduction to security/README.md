@@ -1,5 +1,16 @@
 ## Setting up virtual machines on lab computers
 
+First, log into the lab computers select the credentials provided by __lab day and time__.  
+
+For the lab class on __Wednesdays 3-5pm__, username is __.\comp3061a__ and password is __comp3061a__  
+Your home folder is __D:\comp3061a__. Data will be deleted if you save outside of your home folder.  
+
+For the lab class on __Thursdays 11-2pm__, username is __.\comp3061b__ and password is __comp3061b__  
+Your home folder is __D:\comp3061b__. Data will be deleted if you save outside of your home folder. 
+
+For the lab class on __Wednesdays 2-5pm__, username is __.\comp3061c__ and password is __comp3061c__  
+Your home folder is __D:\comp3061c__. Data will be deleted if you save outside of your home folder. 
+
 *Perform the steps below in sequence*
 
 1a. [Create Windows Server 2012 R2 virtual machine using VMware workstation.](https://vimeo.com/232280142/b336d48d38)   
