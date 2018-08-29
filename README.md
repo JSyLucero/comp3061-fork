@@ -1,11 +1,11 @@
 ## Course outline
-[COMP 3061](https://www.georgebrown.ca/CO/gbc/technology/school-of-computer-technology/courses/COMP/3061/COMP3061-T141,T147.html)
+[COMP 4046](https://www.georgebrown.ca/CO/gbc/technology/school-of-computer-technology/courses/COMP/4046/COMP4046-T413.html)
 
 ## Deadlines
-- Quiz 1 (available for two weeks; weeks 3 & 4)
-- Quiz 2 (available for two weeks; weeks 10 & 11)
-- Assignment (week 11)
-- Lab test (week 12)
-- Final exam (week 13)
+- Weekly labs (upload files via Blackboard)
+- Quiz 1 (week 6 - 3pm in E418)
+- Quiz 2 (week 14 - 3pm in E418)
+- Mid term (week 7 - available 24 hours on the class/lab day)
+- Final exam (week 15 - available 24 hours on the class/lab day)
 
 
