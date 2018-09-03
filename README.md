@@ -10,4 +10,4 @@
 
 ## Week 1
 - Lab: Download Windows 7 Professional 64 bit virtual machine created in VMWare  
-
+  - Password is Pa$$word  
