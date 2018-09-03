@@ -10,4 +10,6 @@
 
 ## Week 1
 - Lab: Download Windows 7 Professional 64 bit virtual machine created in VMWare  
+  - Download in your provided folder. Ask instuctor to get the correct folder location.
   - Password is Pa$$word  
+- Lab: Do
