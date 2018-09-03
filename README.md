@@ -8,4 +8,6 @@
 - Mid term (week 7 - available 24 hours on the class/lab day)
 - Final exam (week 15 - available 24 hours on the class/lab day)
 
+## Week 1
+- Lab: Download Windows 7 Professional 64 bit virtual machine created in VMWare  
 
